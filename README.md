@@ -14,3 +14,7 @@
 ## 12. Script to recursively change dir permission 
 ## 13. Script to create and set dir permission 
 ## 14. Script Change group for file
+## 15. Owner and group
+## 16. Symbolic links
+## 17. IF ONLY
+## 18. STAR WARS IV
