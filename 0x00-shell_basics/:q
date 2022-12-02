@@ -1,2 +1,2 @@
-#!/bin/bash
-mkdir -p welcome/to/school
+string SCHOOL School data
+!:mime School
